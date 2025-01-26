@@ -18,7 +18,7 @@ namespace AspNetCoreApp.Controllers
         public IActionResult Index()
         {
             // Pass a custom greeting message to the view
-            ViewData["Message"] = "Hello, World!";
+            ViewData["Message"] = "Hello, Khyati!" + "   " + "Centennial is the best college in the world.";
             return View();
         }
 

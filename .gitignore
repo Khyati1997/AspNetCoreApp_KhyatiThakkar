@@ -10,3 +10,7 @@ obj/
 # Ignore other temporary files
 *.log
 *.tmp
+
+# Ignore Directory
+obj/
+Properties/
